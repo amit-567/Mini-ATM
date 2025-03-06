@@ -1,7 +1,7 @@
 # Mini-ATM
 ## Welcome to Mini-ATM, where innovation meets convenience. I am the brainchild behind this project, dedicated to replicating the functionality of a traditional ATM machine in a compact, user-friendly form.
 
-## My name is Yogesh Saini, and I'm passionate about creating practical solutions using object-oriented programming principles. With a strong foundation in C++, I embarked on the journey to develop Mini-ATM, aiming to provide users with seamless banking experiences from the comfort of their homes.
+## My name is Amit Kumar Yaadav, and I'm passionate about creating practical solutions using object-oriented programming principles. With a strong foundation in C++, I embarked on the journey to develop Mini-ATM, aiming to provide users with seamless banking experiences from the comfort of their homes.
 
 ## Mini-ATM offers a comprehensive range of functionalities, including:
 
